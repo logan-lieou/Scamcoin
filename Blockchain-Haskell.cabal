@@ -29,6 +29,6 @@ executable Blockchain-Haskell
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    Crypto, base ^>=4.14.1.0
+    build-depends:    bytestring, cryptohash, base ^>=4.14.1.0
     hs-source-dirs:   app
     default-language: Haskell2010
