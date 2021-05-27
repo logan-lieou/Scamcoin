@@ -1,4 +1,6 @@
 ## Functional Blockchain with Haskell
 
 
-Yeah dude Haskell == useless language????
+if (Haskell == useless language) {
+  rewrite(src, go);
+}
