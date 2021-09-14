@@ -6,6 +6,7 @@ import (
 	"testing"
 )
 
+// test to see if the hash is working
 func testHash(t *testing.T) {
 	var gblock *block = genesis_block("logan", "dorian")
 	dat, err := os.ReadFile("genesis_block.json")

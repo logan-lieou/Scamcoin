@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"os"
+	"github.com/logan-lieou/Scamcoin/mvpdatabase"
 )
 
 func main() {
