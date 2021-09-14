@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/loganj/Projects/JVM_Projects/Functional_Blockchain/src/main/scala/BlockParser.scala:28:28: not found: type UUID[0m
-[0m[[0m[31merror[0m] [0m[0m    case class Article(id: UUID, title: String, content: String, author: String)[0m
-[0m[[0m[31merror[0m] [0m[0m                           ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/loganj/Projects/JVM_Projects/Functional_Blockchain/src/main/scala/BlockParser.scala:40:34: not found: type Encoder[0m
-[0m[[0m[31merror[0m] [0m[0m    implicit val articleEncoder: Encoder[Article] = article => Json.obj([0m
-[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

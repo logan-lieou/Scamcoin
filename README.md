@@ -1,4 +1,6 @@
-## Functional Blockchain with Haskell
+## Scamcoin 💸
+
+Wanna mess around with block chain and ether.
 
 
-pain all the time.
+**what happened to scala?** ether.
